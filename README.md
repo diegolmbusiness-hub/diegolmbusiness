@@ -92,6 +92,4 @@
 
 ---
 
-<p align="center">
-  <i>"El código es como el humor. Cuando tienes que explicarlo, es malo." – Cory House</i>
-</p>
+
